@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone",
+        "description": "A high-performance smartphone with a sleek design.",
+        "price": 600.99,
+        "image": "media/smartphone.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Wireless Headphones",
+        "description": "Noise-cancelling headphones for immersive sound.",
+        "price": 150.99,
+        "image": "media/headphone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Laptop",
+        "description": "Powerful laptop for work and play.",
+        "price": 1200.99,
+        "image": "media/laptop.jpg"
+    }
+]
